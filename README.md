@@ -15,19 +15,19 @@
 
 
 ```bash
- git clone https://github.com/kenzok8/openwrt-packages.git
+ git clone https://github.com/zgh12345/openwrt-packages.git
 ```
 
  2、 或者添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件
  
 ```bash
- src-git kenzo https://github.com/kenzok8/openwrt-packages
+ src-git kenzo https://github.com/zgh12345/openwrt-packages
 ```
 
  3、 passwall依赖
  
  ```bash
- src-git small https://github.com/kenzok8/small
+ src-git small https://github.com/zgh12345/small
  ```
  
 - openwrt 固件编译自定义主题与软件
